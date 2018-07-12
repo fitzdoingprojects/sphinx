@@ -28,13 +28,16 @@ Sphinx
 ## Design Choices
 * Exact button type (see BOM)
 * Cabling
-	** Should each button have a direct wire back to main controller, or should the main controller route to each fin and then seprate wiring to each button.
-	** Use pre-made cables (e.g ethernet cable rj45 to each button, or Parallel Port IEEE 1284 cable to each fin), or custom made cables?
-* Speakers - either self powered or amplifer plus unpowered speakers. How loud? Full range, or additional subwoofer?
+	* Should each button have a direct wire back to main controller, or should the main controller route to each fin and then seprate wiring to each button.
+	* Use pre-made cables (e.g ethernet cable rj45 to each button, or Parallel Port IEEE 1284 cable to each fin), or custom made cables?
+* Speakers
+	* Either self powered or amplifer plus unpowered speakers. 
+	* How loud? 
+	* Full range, or additional subwoofer?
 * Power 
-	**12V battery, what size? 
-	** How to charge?
+	* 12V battery, what size? 
+	* How to charge?
 * Enclosure
-	** What type of material
-	** How to mount
+	* What type of material
+	* How to mount
 

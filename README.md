@@ -17,12 +17,16 @@ Sphinx
 
 ## Questions
 * Buttons are momentary? Size requirements? LED color?
+	white, 16mm
 * Is there already a battery to use?
+	or 12v
 * Are there already speakers to use?
+	get amazon
 * How far are buttons from main controller?
 * How far apart are buttons from each other?
 * What type of mounting structure is available for main controller?
 * Should we bring back-ups of components, if so which ones and how many?
+
 
 
 ## Design Choices

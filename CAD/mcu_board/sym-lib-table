@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name E5908-5VC145-L)(type Legacy)(uri ${KIPRJMOD}/symbols/E5908-5VC145-L.lib)(options "")(descr ""))
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/symbols/teensy.lib)(options "")(descr ""))
+  (lib (name AUDIOSHIELD)(type Legacy)(uri ${KIPRJMOD}/symbols/AUDIOSHIELD.lib)(options "")(descr ""))
 )

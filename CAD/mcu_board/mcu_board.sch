@@ -1371,7 +1371,7 @@ F 3 "~" H 1450 4250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 4250 1200 4250
-Text Label 1200 4250 2    50   ~ 0
+Text Label 1200 6750 2    50   ~ 0
 SW_7
 Wire Wire Line
 	2050 4350 1550 4350
@@ -1507,7 +1507,7 @@ F 3 "~" H 1450 5650 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 5650 1200 5650
-Text Label 1200 5650 2    50   ~ 0
+Text Label 1200 2950 2    50   ~ 0
 SW_17
 Wire Wire Line
 	2050 5750 1550 5750
@@ -1524,7 +1524,7 @@ F 3 "~" H 1450 5750 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 5750 1200 5750
-Text Label 1200 5750 2    50   ~ 0
+Text Label 1200 3050 2    50   ~ 0
 SW_18
 Wire Wire Line
 	2050 5850 1550 5850
@@ -1541,7 +1541,7 @@ F 3 "~" H 1450 5850 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 5850 1200 5850
-Text Label 1200 5850 2    50   ~ 0
+Text Label 1200 3350 2    50   ~ 0
 SW_19
 Wire Wire Line
 	2050 5950 1550 5950
@@ -1558,7 +1558,7 @@ F 3 "~" H 1450 5950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 5950 1200 5950
-Text Label 1200 5950 2    50   ~ 0
+Text Label 1200 3650 2    50   ~ 0
 SW_20
 Wire Wire Line
 	2050 6050 1550 6050
@@ -1575,7 +1575,7 @@ F 3 "~" H 1450 6050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 6050 1200 6050
-Text Label 1200 6050 2    50   ~ 0
+Text Label 1200 3850 2    50   ~ 0
 SW_21
 Wire Wire Line
 	2050 6150 1550 6150
@@ -1592,8 +1592,8 @@ F 3 "~" H 1450 6150 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 6150 1200 6150
-Text Label 1200 6150 2    50   ~ 0
-SW_21
+Text Label 1200 4050 2    50   ~ 0
+SW_22
 Wire Wire Line
 	2050 6250 1550 6250
 $Comp
@@ -1609,8 +1609,8 @@ F 3 "~" H 1450 6250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 6250 1200 6250
-Text Label 1200 6250 2    50   ~ 0
-SW_22
+Text Label 1200 4250 2    50   ~ 0
+SW_23
 Wire Wire Line
 	2050 6850 1550 6850
 $Comp
@@ -1711,8 +1711,6 @@ F 3 "~" H 1450 2850 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 2850 1200 2850
-Text Label 1200 2850 2    50   ~ 0
-SW_0
 Wire Wire Line
 	2050 2950 1550 2950
 $Comp
@@ -1728,7 +1726,7 @@ F 3 "~" H 1450 2950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 2950 1200 2950
-Text Label 1200 2950 2    50   ~ 0
+Text Label 1200 5750 2    50   ~ 0
 SW_1
 Wire Wire Line
 	2050 3050 1550 3050
@@ -1745,15 +1743,15 @@ F 3 "~" H 1450 3050 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1350 3050 1200 3050
-Text Label 1200 3050 2    50   ~ 0
+Text Label 1200 5850 2    50   ~ 0
 SW_2
-Text Label 1200 2850 2    50   ~ 0
+Text Label 1200 5650 2    50   ~ 0
 SW_0
-Text Label 1200 3350 2    50   ~ 0
+Text Label 1200 5950 2    50   ~ 0
 SW_3
-Text Label 1200 3850 2    50   ~ 0
+Text Label 1200 6150 2    50   ~ 0
 SW_5
-Text Label 1200 4050 2    50   ~ 0
+Text Label 1200 6250 2    50   ~ 0
 SW_6
 $Comp
 L Device:Jumper_NO_Small JP30
@@ -1811,7 +1809,7 @@ F 3 "~" H 1450 3650 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1550 3650 2050 3650
-Text Label 1200 3650 2    50   ~ 0
+Text Label 1200 6050 2    50   ~ 0
 SW_4
 Wire Wire Line
 	1200 3650 1350 3650
@@ -1862,21 +1860,21 @@ F 3 "" H 4250 3950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	4250 3950 4050 3950
-Text Label 9700 4750 0    50   ~ 0
+Text Label 9700 6350 0    50   ~ 0
 LED_0
-Text Label 9700 4850 0    50   ~ 0
+Text Label 9700 6450 0    50   ~ 0
 LED_1
-Text Label 9700 4950 0    50   ~ 0
+Text Label 9700 6550 0    50   ~ 0
 LED_2
-Text Label 9700 5050 0    50   ~ 0
+Text Label 9700 6650 0    50   ~ 0
 LED_3
-Text Label 9700 5150 0    50   ~ 0
+Text Label 9700 6750 0    50   ~ 0
 LED_4
-Text Label 9700 5250 0    50   ~ 0
+Text Label 9700 6850 0    50   ~ 0
 LED_5
-Text Label 9700 5350 0    50   ~ 0
+Text Label 9700 6950 0    50   ~ 0
 LED_6
-Text Label 9700 5450 0    50   ~ 0
+Text Label 9700 7050 0    50   ~ 0
 LED_7
 Text Label 9700 5550 0    50   ~ 0
 LED_8
@@ -1894,21 +1892,21 @@ Text Label 9700 6150 0    50   ~ 0
 LED_14
 Text Label 9700 6250 0    50   ~ 0
 LED_15
-Text Label 9700 6350 0    50   ~ 0
+Text Label 9700 4750 0    50   ~ 0
 LED_16
-Text Label 9700 6450 0    50   ~ 0
+Text Label 9700 4850 0    50   ~ 0
 LED_17
-Text Label 9700 6550 0    50   ~ 0
+Text Label 9700 4950 0    50   ~ 0
 LED_18
-Text Label 9700 6650 0    50   ~ 0
+Text Label 9700 5050 0    50   ~ 0
 LED_19
-Text Label 9700 6750 0    50   ~ 0
+Text Label 9700 5150 0    50   ~ 0
 LED_20
-Text Label 9700 6850 0    50   ~ 0
+Text Label 9700 5250 0    50   ~ 0
 LED_21
-Text Label 9700 6950 0    50   ~ 0
+Text Label 9700 5350 0    50   ~ 0
 LED_22
-Text Label 9700 7050 0    50   ~ 0
+Text Label 9700 5450 0    50   ~ 0
 LED_23
 Wire Wire Line
 	10150 2350 10050 2350
@@ -2481,7 +2479,7 @@ L Device:R_Small R70
 U 1 1 5BAC4566
 P 14000 5950
 F 0 "R70" H 14059 5996 50  0000 L CNN
-F 1 "R_L" H 14059 5905 50  0000 L CNN
+F 1 "1K" H 14059 5905 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 14000 5950 50  0001 C CNN
 F 3 "~" H 14000 5950 50  0001 C CNN
 	1    14000 5950
@@ -4204,8 +4202,6 @@ Wire Wire Line
 	2150 9950 2400 9950
 Wire Wire Line
 	2400 10050 2150 10050
-Text Label 1200 6750 2    50   ~ 0
-SW_23
 Wire Wire Line
 	1950 9950 1800 9950
 Wire Wire Line
@@ -4433,4 +4429,50 @@ Wire Wire Line
 	9300 6950 9700 6950
 Wire Wire Line
 	9300 7050 9700 7050
+$Comp
+L Mechanical:Mounting_Hole MK1
+U 1 1 5B74A5F4
+P 8900 3300
+F 0 "MK1" H 9000 3346 50  0000 L CNN
+F 1 "Mounting_Hole" H 9000 3255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 8900 3300 50  0001 C CNN
+F 3 "" H 8900 3300 50  0001 C CNN
+	1    8900 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole MK3
+U 1 1 5B74AF58
+P 9750 3300
+F 0 "MK3" H 9850 3346 50  0000 L CNN
+F 1 "Mounting_Hole" H 9850 3255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 9750 3300 50  0001 C CNN
+F 3 "" H 9750 3300 50  0001 C CNN
+	1    9750 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole MK2
+U 1 1 5B74B0A6
+P 8900 3600
+F 0 "MK2" H 9000 3646 50  0000 L CNN
+F 1 "Mounting_Hole" H 9000 3555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 8900 3600 50  0001 C CNN
+F 3 "" H 8900 3600 50  0001 C CNN
+	1    8900 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Mounting_Hole MK4
+U 1 1 5B74B1FE
+P 9750 3600
+F 0 "MK4" H 9850 3646 50  0000 L CNN
+F 1 "Mounting_Hole" H 9850 3555 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 9750 3600 50  0001 C CNN
+F 3 "" H 9750 3600 50  0001 C CNN
+	1    9750 3600
+	1    0    0    -1  
+$EndComp
+Text Label 1200 2850 2    50   ~ 0
+SW_16
 $EndSCHEMATC
